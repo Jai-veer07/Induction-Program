@@ -1,7 +1,7 @@
 # 🏫 GNDEC Induction Program
 
 **📅 30 July – 8 August 2025**  
-A personal log of my first week as a GNDEC student.
+A Personal log of my week as a GNDEC student.
 ---
 
 ## 📜 Table of Contents
@@ -18,7 +18,7 @@ A personal log of my first week as a GNDEC student.
 ---
 
 ## Introduction
-The induction program at **Guru Nanak Dev Engineering College**, held from **30 July to 9 August 2025**, marked the official start of my university journey.  
+The induction program at **Guru Nanak Dev Engineering College**, held from **30 July to 8 August 2025**, marked the official start of my university journey.  
 We explored the institution’s values, resources, clubs, and academic culture through lectures, workshops, peer sessions, and motivational talks.  
 It was also a great opportunity to connect with seniors, make friends, and feel welcomed into the GNDEC family.
 
