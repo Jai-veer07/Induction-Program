@@ -5,7 +5,7 @@ A Personal log of my week as a GNDEC student.
 ---
 
 ## Introduction
-The induction program at **Guru Nanak Dev Engineering College**, held from **30 July to 8 August 2025**, marked the official start of my university journey.  
+The induction program at **Guru Nanak Dev Engineering College**, held from **30 July to 8 August 2025**, marked the official start of College
 We explored the institution’s values, resources, clubs, and academic culture through lectures, workshops, peer sessions, and motivational talks.  
 It was also a great opportunity to connect with seniors, make friends, and feel welcomed into the GNDEC family.
 
@@ -27,7 +27,7 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 
 - Lecture by **Ms. Priya Darshni** on *Universal Human Values* — empathy, integrity, and mutual respect. She focused on the significance of empathy, integrity, and mutual respect in shaping personal character and professional behavior
 - Talk by **Mr. Arvind Dhingra** adding more perspectives.  
-- Proficiency tests in **English** (easy) & **Mathematics** ( Easy to Moderate )
+- Proficiency tests in **English** (Easy) & **Mathematics** ( Easy to Moderate )
 
 </details>
 
@@ -37,8 +37,8 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 <summary><strong>📅 Day 3 — ⚛️ Clubs, Exams & Physics Fun</strong></summary>
 
 - Early start with the **Causmic Club** — insight into campus events.  
-- Exam rules by **Dr. Ranhir Singh**.  
-- Human Values session with **Ms. Priya Darshni**.  
+- Exam rules by **Dr. Randhir Singh**.  
+- Human Values session 2 with **Ms. Priya Darshni**.  
 - Engaging Physics lecture by **Ms. Amarjot Kaur**.  
 - Peer-to-peer C++ programming session.
 
