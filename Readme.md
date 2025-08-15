@@ -1,7 +1,7 @@
 # 🏫 GNDEC Induction Program
 
 **📅 30 July – 8 August 2025**  
-A Personal log of my week as a GNDEC student.
+A Personal log of week as a GNDEC student.
 ---
 
 ## Introduction
@@ -37,9 +37,9 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 <summary><strong>📅 Day 3 — ⚛️ Clubs, Exams & Physics Fun</strong></summary>
 
 - Early start with the **Causmic Club** — insight into campus events.  
-- Exam rules by **Dr. Randhir Singh**.  
-- Human Values session 2 with **Ms. Priya Darshni**.  
-- Engaging Physics lecture by **Ms. Amarjot Kaur**.  
+- Exam rules by **Dr. Randhir Singh**.  . He clarified the guidelines and procedures we must follow during assessments
+- Human Values session 2 with **Dr. Priya Darshni**.  
+- Engaging Physics lecture by **Prof. Amarjot Kaur**.  
 - Peer-to-peer C++ programming session.
 
 </details>
