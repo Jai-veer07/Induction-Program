@@ -39,8 +39,9 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 - Early start with the **Causmic Club** — insight into campus events.  
 - Exam rules by **Dr. Randhir Singh**.  . He clarified the guidelines and procedures we must follow during assessments
 - Human Values session 2 with **Dr. Priya Darshni**.  
-- Engaging Physics lecture by **Prof. Amarjot Kaur**.  
+- Engaging Physics lecture by **Prof. Amarjot Kaur**. which was engaging and informative
 - Peer-to-peer C++ programming session.
+- Introducing us to basic concepts and improving our technical knowledge
 
 </details>
 
@@ -49,10 +50,9 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 <details>
 <summary><strong>📅 Day 4 — 🏎️ Motor Sports & Millets</strong></summary>
 
-- **Mr. Gautam Murria** on Motor Sports.  
-- **Dr. Amit Kamre** on the Digital Marketing Club.  
-- **Mrs. Shaffy** on the health benefits of millets.  
-- Early wrap-up at **4:00 PM**.
+- **Mr. Gautam Murria** on Motor Sports. The energy and passion he brought to the topic made it easy to imagine ourselves on the race track…
+- **Dr. Amit Kamre** on the Digital Marketing Club. He introduced us to the club’s activities and shared how digital marketing is shaping modern industries. It was interesting to see how creativity and analytics go hand in hand in this field.
+- **Mrs. Shaffy** on the health benefits of millets. Teaches us cooking techniques and improvements
 
 </details>
 
@@ -61,9 +61,9 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 <details>
 <summary><strong>📅 Day 5 — 💪 Fitness, NCC & Language Skills</strong></summary>
 
-- Overview of GNDEC by **Dr. Parminder Singh** (Dean of Student Welfare).  
-- Electrifying *Fitness for Engineers* session by **Mr. Manpreet Singh**.  
-- **Brigadier P.S. Cheema** on NCC and its values.  
+- Overview of GNDEC by **Dr. Parminder Singh** (Dean of Student Welfare) His session helped us grasp the institution’s vision, opportunities, and resources.  
+- Electrifying *Fitness for Engineers* session by **Mr. Manpreet Singh** was incredible and Powerful
+- **Army Brigadier P.S. Cheema** Discussed the National Cadet Corps (NCC), emphasizing the discipline, leadership, and patriotism it fosters in students.
 - English lecture and P2P session to end the day.
 
 </details>
@@ -73,10 +73,11 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 <details>
 <summary><strong>📅 Day 6 — 🔬 Maths, Lasers & NSS Motivation</strong></summary>
 
-- Mathematics Lecture by **Prof. Sukhwinder Singh**.  
-- Physics session on LASER.  
+- Mathematics Lecture by **Prof. Sukhwinder Singh**. Revision of All concepts studied till now
+- Physics session on LASER. Experiments, Theory,etc.
 - CML initiatives by **Dr. Lakhvir Singh Khanna**.  
-- NSS motivation talk by **Dr. Jasvir Singh Grewal**.
+- NSS motivation talk by **Dr. Jasvir Singh Grewal**. Shape our personalities and sense of social responsibility.
+- 
 
 </details>
 
@@ -85,9 +86,9 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 <details>
 <summary><strong>📅 Day 7 — 🏁 Motor Sports, Economics & ID Cards</strong></summary>
 
-- **Gautam** (senior) sharing personal insights on Motor Sports.  
-- Economics lecture by **Prof. Varinder Singh** with real-world engineering applications.  
-- ID card formation — officially part of GNDEC.
+- **Gautam** (senior) sharing personal insights on Motor Sports. Added unique perspective to the topic
+- Economics lecture by **Prof. Varinder Singh** with real-world engineering applications.Taught about finances,balances,etc. 
+- The day concluded with the process of ID card formation, a small yet significant step that made us feel officially part of the College community
 
 </details>
 
