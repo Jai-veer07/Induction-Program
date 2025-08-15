@@ -15,7 +15,7 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 <summary><strong>🗓️ Day 1→30-07-25(🛕Gurudwara Visit and Inauguration)
 
 - Peaceful start with a Gurudwara Sahib visit of College (its boat-like design symbolizing guidance).  
-- Light snacks and friendly interactions helped ease the first-day jitters.  
+- Light snacks and friendly interactions helped ease the first-day
 - **10:00 AM** — Inaugural Ceremony with faculty introductions and an overview of college life.
 
 </details>
@@ -74,10 +74,10 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 <details>
 <summary><strong>🗓️ Day 6 → 07-08-25(🔬 Maths, Lasers & NSS )
 - Mathematics Lecture by **Prof. Sukhwinder Singh**. Revision of All concepts studied till now
+  
 - Physics session on LASER. Experiments, Theory,etc.
 - CML initiatives by **Dr. Lakhvir Singh Khanna**.  
 - NSS motivation talk by **Dr. Jasvir Singh Grewal**. Shape our personalities and sense of social responsibility.
-- 
 
 </details>
 
