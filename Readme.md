@@ -10,7 +10,7 @@ We explored the institution’s values, resources, clubs, and academic culture t
 It was also a great opportunity to connect with seniors, make friends, and feel welcomed into the GNDEC family.
 
 ---
-🗓️ Day 1→30-07-25(🛕Gurudwara Visit and Inauguration)
+🗓️ Day 1→30-07-25(🛕Visiting Gurudwara and Inauguration)
 
 - Peaceful start with a Gurudwara Sahib visit of College (its boat-like design symbolizing guidance).  
 - Light snacks and friendly interactions helped ease the first-day
