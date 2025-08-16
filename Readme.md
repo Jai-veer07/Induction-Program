@@ -31,9 +31,8 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 - Early start with the **Causmic Club** — insight into campus events.  
 - Exam rules by **Dr. Randhir Singh** . He clarified the guidelines and procedures we must follow during assessments
 - Human Values session 2 with **Dr. Priya Darshni**. Physical Facility,Self introspection,etc.
-- Engaging Physics lecture by **Prof. Amarjot Kaur**. which was engaging and informative
-- Peer-to-peer C++ programming session.
-- Introducing us to basic concepts and improving our technical knowledge
+- Engaging Physics lecture by **Prof. Amarjot Kaur**. which was engaging and informative.Syllabus,Exams Pattern,etc.
+- Peer-to-peer C++ programming session.Introducing us to basic concepts and improving our technical knowledge
 
 ---
 
