@@ -14,7 +14,7 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 
 - Peaceful start with a Gurudwara Sahib visit of College (its boat-like design symbolizing guidance).  
 - Light snacks and friendly interactions helped ease the first-day
-- **10:00 AM** — Inaugural Ceremony with faculty introductions and an overview of college life.
+- **10:00 AM** — Inaugural Ceremony with faculty and an overview of college life.The session gave us an overview of the college environment, its values, and the key people who would guide us in the coming years.
 
 ---
 
