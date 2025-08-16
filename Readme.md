@@ -20,8 +20,8 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 
 🗓️ Day 2 →01-08-25 (📚 Values, Lectures & Proficiency Tests)
 
-- Lecture by **Ms. Priya Darshni** on *Universal Human Values* — empathy, integrity, and mutual respect. She focused on the significance of empathy, integrity, and mutual respect in shaping personal character and professional behavior
-- Talk by **Mr. Arvind Dhingra** adding more perspectives.  
+- Lecture by **Dr. Priya Darshni** on *Universal Human Values* — empathy, integrity, and mutual respect. She focused on the significance of empathy, integrity, and mutual respect in shaping personal character and professional behavior
+- Talk by **Dr. Arvind Dhingra** adding more perspectives.  
 - Proficiency tests in **English** (Easy) & **Mathematics** ( Easy to Moderate )
 
 ---
@@ -41,7 +41,7 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 
 - **Mr. Gautam Murria** on Motor Sports. The energy and passion he brought to the topic made it easy to imagine ourselves on the race track…
 - **Dr. Amit Kamre** on the Digital Marketing Club. He introduced us to the club’s activities and shared how digital marketing is shaping modern industries. It was interesting to see how creativity and analytics go hand in hand in this field.
-- **Mrs. Shaffy** on the health benefits of millets. Teaches us cooking techniques and improvements
+- **Mrs. Shaffy Makkar** on "Millets Super Foods" and health benefits of millets. Teaches us cooking techniques and improvements
 
 ---
 
@@ -66,7 +66,7 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 
 🗓️ Day 7 → 08-08-25 (🏁 Motor Sports, Economics & ID Cards)
 
-- **Gautam** (senior) sharing personal insights on Motor Sports. Added unique perspective to the topic
+- **Gautam Murria** sharing personal insights on Motor Sports. Added unique perspective to the topic. Engines,their weights,Capacity,etc.
 - Economics lecture by **Prof. Varinder Singh** with real-world engineering applications.Taught about finances,balances,etc. 
 - The day concluded with the process of ID card formation, a small yet significant step that made us feel officially part of the Great College
 
