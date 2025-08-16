@@ -28,7 +28,7 @@ It was also a great opportunity to connect with seniors, make friends, and feel 
 
 🗓️ Day 3 → 04-08-25(⚛️ Clubs, Exams & Physics Fun)
 
-- Early start with the **Causmic Club** — insight into campus events.  
+- Early start with the **Causmic Club** — insight into campus events. Student -led organisation showing how active and creative our community is.
 - Exam rules by **Dr. Randhir Singh** . He clarified the guidelines and procedures we must follow during assessments
 - Human Values session 2 with **Dr. Priya Darshni**. Physical Facility,Self introspection,etc.
 - Engaging Physics lecture by **Prof. Amarjot Kaur**. which was engaging and informative.Syllabus,Exams Pattern,etc.
